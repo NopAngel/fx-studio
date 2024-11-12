@@ -1,0 +1,2 @@
+#define fx_screen_VERSION_MAJOR @fx_screen_VERSION_MAJOR@
+#define fx_screen_VERSION_MINOR @fx_screen_VERSION_MINOR@

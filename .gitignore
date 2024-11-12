@@ -1,0 +1,13 @@
+#build
+build
+
+
+#settings
+.settings
+
+#cache
+
+cache.txt
+cache.log
+*.log
+
